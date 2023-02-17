@@ -2,7 +2,7 @@
 This is a Power App I'm using to test out Open AI endpoints and configuration. I'll continue to add more scenarios.
 
 ## Configuring Open AI Connector
-I created a customer connector from the following source (built by Robin Rosengrün). The published version inside Power Platform didn't have the image generation endpoint published yet.
+I created a custom connector from the following source (built by Robin Rosengrün). The published version inside Power Platform didn't have the image generation endpoint published yet.
 
 https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/OpenAI
 
